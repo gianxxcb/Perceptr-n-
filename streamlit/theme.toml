@@ -1,0 +1,19 @@
+# app.py carga este tema automáticamente al ejecutarse con Python.
+[theme]
+base = "light"
+primaryColor = "#115166"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#E9FBFF"
+textColor = "#115166"
+borderColor = "#BDF1FF"
+dataframeHeaderBackgroundColor = "#BDF1FF"
+dataframeHeaderTextColor = "#115166"
+codeBackgroundColor = "#E9FBFF"
+codeTextColor = "#115166"
+linkColor = "#115166"
+chartCategoricalColors = ["#115166", "#3CC7E8", "#BDF1FF"]
+chartSequentialColors = ["#E9FBFF", "#E9FBFF", "#BDF1FF", "#BDF1FF", "#BDF1FF", "#3CC7E8", "#3CC7E8", "#3CC7E8", "#115166", "#115166"]
+showWidgetBorder = true
+
+[browser]
+gatherUsageStats = false

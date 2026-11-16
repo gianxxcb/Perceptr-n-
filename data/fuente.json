@@ -1,0 +1,14 @@
+{
+  "dataset": "High School Student Performance & Demographics",
+  "kaggle": "https://www.kaggle.com/datasets/dillonmyrick/high-school-student-performance-and-demographics",
+  "download_url": "https://www.kaggle.com/api/v1/datasets/download/dillonmyrick/high-school-student-performance-and-demographics",
+  "fuente_original": "https://archive.ics.uci.edu/dataset/320/student-performance",
+  "autor_original": "Paulo Cortez (2008)",
+  "doi": "https://doi.org/10.24432/C5TG7T",
+  "licencia_original": "CC BY 4.0",
+  "descargado_utc": "2026-11-16T15:48:09.683927+00:00",
+  "sha256_zip": "a07cfa0201fc01eaee32859d6069a21ff98331c21fee18b0108b20175b7fdd6d",
+  "sha256_csv": "5b69554b4b5cb5e236574a4d06862c1dd9dedcb75a11a58fa6685fd5ddabe323",
+  "archivo_usado": "student_math_clean.csv",
+  "adaptacion": "grade_1, grade_2 y final_grade se usan como tres entradas didácticas; final_grade es originalmente la nota final, no una tercera unidad independiente. La etiqueta se deriva de al menos dos notas >= umbral; no es el resultado académico original."
+}
